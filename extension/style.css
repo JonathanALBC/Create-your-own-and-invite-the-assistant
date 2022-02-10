@@ -1,0 +1,12 @@
+#header .intra .header-wrapper {
+    background-color: lightslategray !important;
+}
+#header #notification {
+    background-color: lightslategray !important;
+}
+#header #identification .infos{
+    background-color: lightslategray !important;
+}
+.articles{
+    color: rgb(126, 58, 126) !important;    
+} 
